@@ -109,7 +109,7 @@ const Manager = () => {
                 transition="Bounce"
             />
             <ToastContainer />
-            <div className="px-4 m-4 md:container mx-auto min-h-screen">
+            <div className="px-4 m-4 md:mycontainer mx-auto min-h-screen">
                 <h1 className='text-3xl text-white font-bold text-center'>
                     <div className="logo m-2 font-bold text-2xl">
                         <span className='text-green-500'>&lt;</span>
